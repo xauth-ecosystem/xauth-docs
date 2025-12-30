@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Core Documentation",
+    "items": [
+      {"slug": "introduction", "label": "Introduction"},
+      {"slug": "getting-started", "label": "Getting Started"},
+      {"slug": "configuration", "label": "Configuration"}
+    ]
+  },
+  {
+    "title": "Advanced Setup",
+    "items": [
+      {"slug": "oauth2-server", "label": "OAuth2 Server"},
+      {"slug": "discord-integration", "label": "Discord Integration"}
+    ]
+  },
+  {
+    "title": "FAQ",
+    "items": [
+      {"slug": "faq", "label": "Frequently Asked Questions"}
+    ]
+  }
+]
