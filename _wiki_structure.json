@@ -2,7 +2,7 @@
   {
     "title": "General",
     "items": [
-      {"slug": "welcome", "label": "Welcome", "default": true}
+      {"slug": "welcome", "label": "Welcome"}
     ]
   },
   {
@@ -10,7 +10,8 @@
     "items": [
       {"slug": "introduction", "label": "Introduction"},
       {"slug": "getting-started", "label": "Getting Started"},
-      {"slug": "configuration", "label": "Configuration"}
+      {"slug": "configuration", "label": "Configuration"},
+      {"slug": "database-setup", "label": "Database Setup"}
     ]
   },
   {
