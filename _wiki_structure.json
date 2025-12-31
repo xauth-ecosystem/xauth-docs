@@ -2,7 +2,7 @@
   {
     "title": "General",
     "items": [
-      {"slug": "welcome", "label": "Welcome"}
+      {"slug": "welcome", "label": "Welcome", "default": true}
     ]
   },
   {
