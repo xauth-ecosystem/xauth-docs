@@ -1,5 +1,11 @@
 [
   {
+    "title": "General",
+    "items": [
+      {"slug": "welcome", "label": "Welcome", "default": true}
+    ]
+  },
+  {
     "title": "Core Documentation",
     "items": [
       {"slug": "introduction", "label": "Introduction"},
